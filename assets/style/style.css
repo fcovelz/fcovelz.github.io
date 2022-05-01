@@ -15,6 +15,12 @@
     border-radius: 50%;
 }
 
+#Hero-Section p{
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+
+
 
 .html-logo{
     width: 150px;
@@ -26,4 +32,11 @@
 
 .boots-logo{
     width: 150px;
+}
+
+footer{
+    
+    font-weight: 300;
+    font-size: 0.8rem;
+    height: 50px;
 }
