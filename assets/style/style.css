@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+#Hero-Section {
+    
+    height: 500px;
+}
+
+#Hero-Section img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+
+.html-logo{
+    width: 150px;
+}
+
+.css-logo{
+    width: 277px;
+}
+
+.boots-logo{
+    width: 150px;
+}
