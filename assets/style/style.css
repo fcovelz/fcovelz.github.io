@@ -34,6 +34,9 @@
     width: 150px;
 }
 
+.carousel{
+    border: solid 1px white;
+}
 footer{
     
     font-weight: 300;
